@@ -1,0 +1,36 @@
+[33mcommit 8b0131d8af99547db6868e6123fd896bdd646978[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:27:20 2023 -0700
+
+    two
+
+[33mcommit ca692130e1661b02ec93a3606805819f4ff0f6f2[m
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:27:04 2023 -0700
+
+    one
+
+[33mcommit 3eb979f7f70d78dac2ed4e901fb01964ba8b36fb[m
+Merge: 6294363 c8b7eb2
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:22:00 2023 -0700
+
+    Merge branch 'master' of https://github.com/fanko89/git-test
+
+[33mcommit 62943638cf4e8924b2961e5e472715d9125d3291[m
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:19:26 2023 -0700
+
+    second
+
+[33mcommit c8b7eb28ed6e4e62b4397ffe5dfb0558810c2bf6[m
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:11:48 2023 -0700
+
+    test 2
+
+[33mcommit 7e07da3a8523e8069d084b3dd65c0d33d7533a88[m
+Author: Derek Ney <deek311@gmail.com>
+Date:   Wed Feb 15 23:10:11 2023 -0700
+
+    frist
